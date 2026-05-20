@@ -1,2 +1,0 @@
-# authentication
-hwids n stuff
