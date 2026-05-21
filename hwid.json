@@ -1,6 +1,6 @@
 [
-  "ffaeac2c575b738c9000474cd4249ade32ad714ce7cc1c41416e0e11864bab487763f7cee17231be27858c31cb30519a171f4447e986d450e409560ac7479b78",
-  "561245f99d6519654bb94d2f345a17c2",
-  "4333d12a52e94632d73f91abc4879b49d",
-  "F2EC2AF53E10575FEA8FDD1D2C9EC6"
+  {"key": "FEATHER-WEEK-123", "type": "week"},
+  {"key": "FEATHER-MONTH-456", "type": "month"},
+  {"key": "FEATHER-YEAR-789", "type": "year"},
+  {"key": "FEATHER-LIFETIME-000", "type": "lifetime"}
 ]
